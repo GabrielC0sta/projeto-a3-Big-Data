@@ -1,0 +1,322 @@
+,Cidade,Região,TipoResidencia,NumPessoas,NumDispositivosEletronicos,EnergiaAlternativa,AutomacaoResidencial,EsforcoEconomizar,GastoMensalLuz,ProvedorEnergia,ContaLuzCara
+,São Paulo,Butantã,Casa,5 ou 6 pessoas,16 até 20,Não,Não,Sim,R$301 até R$400,Enel,Não
+,São Paulo,Vargem Grande Paulista,Casa,1 ou 2 pessoas,Acima de 30 Eletrônicos,Não,Não,Não,R$201 até R$250,Enel,Sim
+,São Paulo,Peruíbe,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Sim,Não,Não,R$251 até R$300,Enel,Sim
+,São Paulo,Casa Verde,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Sim,Sim,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Casa Verde,Apartamento,3 ou 4 pessoas,4 até 6 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Casa Verde,Casa,3 ou 4 pessoas,11 até 15 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo ,Casa Verde,Apartamento,3 ou 4 pessoas,11 até 15 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Não
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,11 até 15 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Não
+,São Paulo,Pinheiros,Casa,3 ou 4 pessoas,11 até 15 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Casa Verde,Apartamento,1 ou 2 pessoas,11 até 15 Eletrônicos,Não,Não,Não,R$51 até R$100,Enel,Sim
+,São Paulo ,Casa Verde,Casa,1 ou 2 pessoas,7 até 10 Eletrônicos,Não,Não,Sim,R$51 até R$100,Enel,Sim
+,São Paulo,Casa Verde,Casa,3 ou 4 pessoas,16 até 20,Não,Não,Não,R$201 até R$250,Enel,Sim
+,São Paulo,Casa Verde,Apartamento,1 ou 2 pessoas,16 até 20,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo ,Casa Verde,Casa,3 ou 4 pessoas,4 até 6 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel ,Sim
+,São Paulo,Casa Verde,Apartamento,3 ou 4 pessoas,4 até 6 Eletrônicos,Não,Não,Não,R$101 até R$150,Enel,Não
+,São Paulo ,Barra Funda ,Apartamento,3 ou 4 pessoas,21 até 25 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel ,Sim
+,São Paulo ,Pinheiros,Casa,1 ou 2 pessoas,11 até 15 Eletrônicos,Sim,Sim,Sim,R$51 até R$100,Enel ,Sim
+,São Paulo ,Pinheiros,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Não,R$151 até R$200,Enel ,Não
+,São Paulo ,Casa Verde,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Não,R$101 até R$150,Enel ,Sim
+,São Paulo ,Pinheiros,Casa,1 ou 2 pessoas,4 até 6 Eletrônicos,Não,Não,Sim,R$51 até R$100,Enel,Não
+,São Paulo ,Barra Funda ,Apartamento,1 ou 2 pessoas,11 até 15 Eletrônicos,Não,Não,Sim,R$51 até R$100,Enel,Não
+,São Paulo,Bela vista,Casa,1 ou 2 pessoas,7 até 10 Eletrônicos,Não,Não,Sim,R$51 até R$100,Enel,Sim
+,São Paulo,Pinheiros,Casa,1 ou 2 pessoas,7 até 10 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,3 ou 4 pessoas,21 até 25 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo ,Pinheiros,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel ,Sim
+,São Paulo,Pinheiros,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel ,Sim
+,São Paulo ,Pinheiros,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel ,Não
+,São Paulo ,Pinheiros,Apartamento,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Não,R$151 até R$200,Enel ,Sim
+,São Paulo ,Pinheiros,Apartamento,3 ou 4 pessoas,Acima de 30 Eletrônicos,Sim,Sim,Sim,R$51 até R$100,Enel ,Não
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,7 até 10 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,3 ou 4 pessoas,16 até 20,Não,Não,Não,R$400 até R$500,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Sim,Sim,Sim,R$301 até R$400,Enel,Não
+,São Paulo,Pinheiros,Apartamento,3 ou 4 pessoas,11 até 15 Eletrônicos,Não,Sim,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Pinheiros ,Casa,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Não,R$201 até R$250,Enel ,Sim
+,São Paulo,Casa Verde ,Apartamento,3 ou 4 pessoas,16 até 20,Não,Não,Sim,R$101 até R$150,Enel ,Não
+,São Paulo,Vila Sonia ,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Não,R$400 até R$500,Enel ,Sim
+,São Paulo ,Barra Funda ,Apartamento,1 ou 2 pessoas,11 até 15 Eletrônicos,Não,Não,Não,R$101 até R$150,Enel ,Não
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Butantã,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,1 ou 2 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,1 ou 2 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,1 ou 2 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,1 ou 2 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,1 ou 2 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,1 ou 2 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Barra Funda,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Barra Funda,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Barra Funda,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Caieiras,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Caieiras,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Caieiras,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Caieiras,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Caieiras,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Perdizes,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Perdizes,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Caieiras,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Perdizes,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Caieiras,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Perdizes,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Caieiras,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Perdizes,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Perdizes,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Perdizes,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Perdizes,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Perdizes,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Perdizes,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Perdizes,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Osasco,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Osasco,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Osasco,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Pinheiros,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Pinheiros,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Osasco,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Pinheiros,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Pinheiros,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Pinheiros,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Pinheiros,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Pinheiros,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Osasco,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Mooca,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Mooca,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Mooca,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Mooca,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Mooca,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Mooca,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vargem Grande Paulista,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,5 ou 6 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,3 ou 4 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$201 até R$250,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$251 até R$300,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Apartamento,1 ou 2 pessoas,26 até 30 Eletrônicos,Não,Não,Sim,R$101 até R$150,Enel,Sim
+,São Paulo,Vila Madalena,Casa,3 ou 4 pessoas,Acima de 30 Eletrônicos,Não,Não,Sim,R$151 até R$200,Enel,Sim
